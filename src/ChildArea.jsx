@@ -12,7 +12,6 @@ export const ChildArea = (props) => {
   data.forEach(() => {
     console.log("...");
   });
-  console.log(data);
   return (
     <>
       {open ? (
